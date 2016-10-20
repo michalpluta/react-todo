@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Init from './classes/Init';
+import Init from './components/Init';
 
 
 
